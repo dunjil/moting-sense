@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "106525096590",
+    "firebase_url": "https://motion-sense-c5c05.firebaseio.com",
+    "project_id": "motion-sense-c5c05",
+    "storage_bucket": "motion-sense-c5c05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106525096590:android:e3713836a52e03c0a967df",
+        "android_client_info": {
+          "package_name": "com.jilang.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106525096590-ero6ure42jemb3flr9p7aochr4vf1ia6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsDcuqjVPFCX6IzVMG2QrAsFvh-tgpKOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106525096590-ero6ure42jemb3flr9p7aochr4vf1ia6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106525096590:android:4e86fc62a5fb2a99a967df",
+        "android_client_info": {
+          "package_name": "com.okoli.motion_sense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106525096590-ero6ure42jemb3flr9p7aochr4vf1ia6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsDcuqjVPFCX6IzVMG2QrAsFvh-tgpKOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106525096590-ero6ure42jemb3flr9p7aochr4vf1ia6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106525096590:android:5eb39e1871b43624a967df",
+        "android_client_info": {
+          "package_name": "com.okoli.motionsense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106525096590-ero6ure42jemb3flr9p7aochr4vf1ia6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsDcuqjVPFCX6IzVMG2QrAsFvh-tgpKOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106525096590-ero6ure42jemb3flr9p7aochr4vf1ia6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
